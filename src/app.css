@@ -74,6 +74,13 @@ code {
 	font-family: 'InstrumentSerif', sans-serif;
 }
 
+/* #temporary-chat-button,
+[aria-label="Controls"],
+[aria-label="Workspace"] */
+#navbar-bg-gradient-to-b {
+	display: none !important;
+}
+
 .marked a {
 	@apply underline;
 }
